@@ -197,13 +197,13 @@ export const NAVIGATION_DEMO_2: NavItemType[] = [
     href: "/page-collection-2",
     name: "Sport",
   },
-  {
-    id: ncNanoId(),
-    href: "/page-search",
-    name: "Templates",
-    type: "megaMenu",
-    children: MEGAMENU_TEMPLATES,
-  },
+  // {
+  //   id: ncNanoId(),
+  //   href: "/page-search",
+  //   name: "Templates",
+  //   type: "megaMenu",
+  //   children: MEGAMENU_TEMPLATES,
+  // },
   {
     id: ncNanoId(),
     href: "/page-search",

@@ -29,7 +29,7 @@ export default function TemplatesDropdown() {
       <Popover className="">
         {({ open, close }) => (
           <>
-            <Popover.Button
+            {/* <Popover.Button
               className={`
                 ${open ? "" : "text-opacity-80"}
                 group h-10 sm:h-12 px-3 py-1.5 inline-flex items-center text-sm text-gray-800 dark:text-slate-300 font-medium hover:text-opacity-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75`}
@@ -40,7 +40,7 @@ export default function TemplatesDropdown() {
                   ml-1 h-4 w-4 transition ease-in-out duration-150 `}
                 aria-hidden="true"
               />
-            </Popover.Button>
+            </Popover.Button> */}
             <Transition
               as={Fragment}
               enter="transition ease-out duration-200"
