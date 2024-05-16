@@ -16,7 +16,7 @@ const AccountPage: FC<AccountPageProps> = ({ className = "" }) => {
   return (
     <div className={`nc-AccountPage ${className}`} data-nc-id="AccountPage">
       <Helmet>
-        <title>Account || FashionWorld ecommerce React Template</title>
+        <title>Account || fashionFactory ecommerce React Template</title>
       </Helmet>
       <CommonLayout>
         <div className="space-y-10 sm:space-y-12">

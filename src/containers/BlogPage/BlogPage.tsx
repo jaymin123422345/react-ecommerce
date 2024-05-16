@@ -12,7 +12,7 @@ const BlogPage: React.FC = () => {
   return (
     <div className="nc-BlogPage overflow-hidden relative">
       <Helmet>
-        <title>Blog || FashionWorld React Template</title>
+        <title>Blog || fashionFactory React Template</title>
       </Helmet>
 
       {/* ======== BG GLASS ======== */}

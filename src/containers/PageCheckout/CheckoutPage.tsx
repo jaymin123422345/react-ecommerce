@@ -219,7 +219,7 @@ const CheckoutPage = () => {
   return (
     <div className="nc-CheckoutPage">
       <Helmet>
-        <title>Checkout || FashionWorld Ecommerce Template</title>
+        <title>Checkout || fashionFactory Ecommerce Template</title>
       </Helmet>
 
       <main className="container py-16 lg:pb-28 lg:pt-20 ">

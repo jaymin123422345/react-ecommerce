@@ -6,10 +6,10 @@ function App() {
   return (
     <HelmetProvider>
       <Helmet>
-        <title>FashionWorld || Shop - eCommerce React template</title>
+        <title>fashionFactory || Shop - eCommerce React template</title>
         <meta
           name="description"
-          content="FashionWorld || Shop - eCommerce React template"
+          content="fashionFactory || Shop - eCommerce React template"
         />
       </Helmet>
 

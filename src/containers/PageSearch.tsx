@@ -18,7 +18,7 @@ const PageSearch: FC<PageSearchProps> = ({ className = "" }) => {
   return (
     <div className={`nc-PageSearch  ${className}`} data-nc-id="PageSearch">
       <Helmet>
-        <title>Search || FashionWorld Ecommerce Template</title>
+        <title>Search || fashionFactory Ecommerce Template</title>
       </Helmet>
 
       <div
